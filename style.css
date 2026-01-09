@@ -295,7 +295,7 @@ h1, h2, h3 {
 .solution-image img {
     max-width: 100%;
     height: auto;
-    border-radius: 12px; /* Soften edges if needed */
+    border-radius: 12px; 
 }
 
 .solution-content {
